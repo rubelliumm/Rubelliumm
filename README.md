@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @Rubelliumm
 
-> build. break. secure.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9924F7&background=FFFFFF00&width=435&lines=Python+%7C+Django+%7C+FastAPI;JavaScript+%7C+VueJS;Malware+%7C+Reverse+Engeneering)](https://git.io/typing-svg)
 
 ## 🧠 About Me
 - 🗣️ Usually I speak in **Python**
@@ -26,3 +26,8 @@
 ## 🧰 Tools & Interests
 ```text
 Recon • Exploitation • Automation • Reverse Engineering
+```
+## 📡 Contact
+- ✉️ rubel.me@proton.me  
+- 🛰️ Reach me via GitHub issues / discussions  
+- ⚡ Prefer encrypted communication when possible
