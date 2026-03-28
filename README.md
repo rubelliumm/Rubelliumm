@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @Rubelliumm.
-- 🗣️ Usually I speak Python.
-- 👀 Interested in Malware Analysis.
-- 🌱 Currently learning java.
-- 💞️ Looking to collaborate on Spyware.
-- 📫 How to reach me: rubel.me@proton.me
+# 👋 Hi, I'm @Rubelliumm
 
-<!---
-Rubelliumm/Rubelliumm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> build. break. secure.
+
+## 🧠 About Me
+- 🗣️ Usually I speak in **Python**
+- 👀 Interested in **Malware Analysis**
+- 🌱 Currently learning **Rust**
+- 💞️ Looking to collaborate on **security / reverse engineering projects**
+- 🎯 Moving toward **offensive security**
+
+## ⚙️ Tech Stack
+- 💻 Python • Django • FastAPI  
+- 🦀 Rust (learning)  
+- 🔐 Security • Automation • APIs  
+- 📊 Exploring ML + system-level thinking  
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Rubelliumm&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubelliumm&layout=compact&theme=tokyonight)
+
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Rubelliumm&theme=tokyonight)
+
+## 🧰 Tools & Interests
+```text
+Recon • Exploitation • Automation • Reverse Engineering
